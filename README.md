@@ -29,7 +29,6 @@ Our pipeline follows a staged generation strategy:
 ## Architecture
 
 ### Overall framework
-> Replace the image path after you export your figure.
 
 ![Overall framework](assets/overall_framework.png)
 
